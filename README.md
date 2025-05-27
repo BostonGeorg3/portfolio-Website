@@ -9,7 +9,7 @@ Welcome to my personal repository documenting my career transition from educatio
 - ✅ Earn CompTIA ITF+ (Completed)
 - 🔄 Pass CompTIA A+ (In Progress)
 - 🎓 Enroll in WGU Cybersecurity or CS Program (Planned)
-- 💼 Land a role in IT Support or Entry-Level Cybersecurity by 2026
+- 💼 Land a role in an Entry-Level Cybersecurity position by 2026
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my personal repository documenting my career transition from educatio
 
 ---
 
-## 🧠 My Learning Philosophy
+##  My Learning Philosophy
 
 I believe in scaffolded, hands-on learning. I'm applying my instructional coaching background to master technical systems and help others do the same. Whether through home labs, training modules, or certifications—this repo reflects my journey, mistakes, and growth.
 
