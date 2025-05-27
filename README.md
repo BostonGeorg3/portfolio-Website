@@ -1,26 +1,36 @@
-# Personal Portfolio Website
+# 👩‍💻 Sara's Tech Journey
 
-A simple personal portfolio website to showcase your projects, bio, and contact information.
-
-## Features
-
-- Home page with a welcome message
-- About Me section
-- Projects section with example listings
-- Contact section (email or social links)
-
-## How to Use
-
-1. Clone this repository.
-2. Open `index.html` in your browser to see your portfolio.
-3. Edit the HTML and CSS files to personalize your information.
-4. (Optional) Learn how to deploy your site for free using [GitHub Pages](https://pages.github.com/).
-
-## Skills Learned
-
-- HTML/CSS structure and styling
-- Organizing project files
-- Version control with Git and GitHub
-- Basic deployment
+Welcome to my personal repository documenting my career transition from education to technology. I'm a lifelong learner and instructional coach finishing my Master’s in Curriculum & Instruction (Aug 2025), and currently earning industry certifications to pivot into IT and cybersecurity.
 
 ---
+
+## 🎯 Goals
+
+- ✅ Earn CompTIA ITF+ (Completed)
+- 🔄 Pass CompTIA A+ (In Progress)
+- 🎓 Enroll in WGU Cybersecurity or CS Program (Planned)
+- 💼 Land a role in IT Support or Entry-Level Cybersecurity by 2026
+
+---
+
+## 📂 Repository Overview
+
+| Folder            | Description                                                     |
+|-------------------|-----------------------------------------------------------------|
+| `CERTIFICATIONS/` | Notes, study plans, and resources for IT certifications         |
+| `PROJECTS/`       | Home lab builds, Nmap scans, TryHackMe walkthroughs, and more   |
+| `RESUME/`         | Current and targeted resumes for tech positions                 |
+| `NOTES/`          | Tools, learning logs, and job application tracking              |
+
+---
+
+## 🧠 My Learning Philosophy
+
+I believe in scaffolded, hands-on learning. I'm applying my instructional coaching background to master technical systems and help others do the same. Whether through home labs, training modules, or certifications—this repo reflects my journey, mistakes, and growth.
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/s-salome-256356304)
+- [Email](mailto:your.email@example.com)
