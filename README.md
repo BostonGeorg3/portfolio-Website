@@ -1,6 +1,16 @@
-# 👩‍💻 Sara's Tech Journey
+ Hi, I’m Sara — a passionate educator pivoting into tech.
 
-Welcome to my personal repository documenting my career transition from education to technology. I'm a lifelong learner and instructional coach finishing my Master’s in Curriculum & Instruction (Aug 2025), and currently earning industry certifications to pivot into IT and cybersecurity.
+🎓 I have a Master’s in Curriculum & Instruction and have over 15 years of experience in education, specializing in instructional coaching, special education, and data-driven teaching.
+
+💻 I recently earned my CompTIA ITF+ certification and am studying for the CompTIA A+ to break into IT and cybersecurity. My goal is to combine my background in learning design with technical skills to make tech more accessible, secure, and human-centered.
+
+🛠️ I'm building a personal home lab, exploring cybersecurity fundamentals, and documenting my journey here.
+
+🚀 Future plans: Enroll at WGU for a degree in Cybersecurity or Computer Science, earn Security+, and land my first IT role in 2026.
+
+📚 Lifelong learner. Systems thinker. Bridge-builder between education and tech.
+
+Auction (Aug 2025), and currently earning industry certifications to pivot into IT and cybersecurity.
 
 ---
 
