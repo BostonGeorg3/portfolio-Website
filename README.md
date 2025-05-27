@@ -1,16 +1,13 @@
- Hi, I’m Sara — a passionate educator pivoting into tech.
+Hi, I’m Sara — a lifelong educator transitioning into the world of tech.
 
-🎓 I have a Master’s in Curriculum & Instruction and have over 15 years of experience in education, specializing in instructional coaching, special education, and data-driven teaching.
+🎓 I’m currently pursuing a degree in Cybersecurity and building a foundation in IT through certifications like CompTIA ITF+ and A+. My focus is on developing practical skills in system support, networking, and security.
 
-💻 I recently earned my CompTIA ITF+ certification and am studying for the CompTIA A+ to break into IT and cybersecurity. My goal is to combine my background in learning design with technical skills to make tech more accessible, secure, and human-centered.
+🧠 With 15+ years in education, I bring a strong background in instructional design, coaching, and problem-solving — all of which translate into the tech space.
 
-🛠️ I'm building a personal home lab, exploring cybersecurity fundamentals, and documenting my journey here.
+🛠️ This GitHub is where I document my learning journey, from home lab builds and certification prep to hands-on cybersecurity projects.
 
-🚀 Future plans: Enroll at WGU for a degree in Cybersecurity or Computer Science, earn Security+, and land my first IT role in 2026.
+💡 I’m passionate about creating secure, user-friendly systems and empowering others through knowledge — whether in classrooms or command lines.
 
-📚 Lifelong learner. Systems thinker. Bridge-builder between education and tech.
-
-Auction (Aug 2025), and currently earning industry certifications to pivot into IT and cybersecurity.
 
 ---
 
