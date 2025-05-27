@@ -24,7 +24,7 @@ Hi, I’m Sara — a lifelong educator transitioning into the world of tech.
 
 | Folder            | Description                                                     |
 |-------------------|-----------------------------------------------------------------|
-| `CERTIFICATIONS/` | Notes, study plans, and resources for IT certifications         |
+| `CERTIFICATIONS/![ITF+ Certificate](./CERTIFICATIONS/ITF+ Logo Certified.png` | Notes, study plans, and resources for IT certifications         |
 | `PROJECTS/`       | Home lab builds, Nmap scans, TryHackMe walkthroughs, and more   |
 | `RESUME/`         | Current and targeted resumes for tech positions                 |
 | `NOTES/`          | Tools, learning logs, and job application tracking              |
