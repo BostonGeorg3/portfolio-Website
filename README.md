@@ -24,11 +24,10 @@ I’m passionate about creating secure, user-friendly systems and empowering oth
 
 | Folder | Description |
 |--------|-------------|
-| `CERTIFICATIONS/` | Notes, study plans, and resources for IT certifications (ITF+, A+, CCNA, etc.) |
-| `PROJECTS/` | Home lab builds, Nmap scans, TryHackMe walkthroughs, and security projects |
-| `RESUME/` | Current and targeted resumes for tech and cybersecurity roles |
-| `NOTES/` | Tools, learning logs, study notes, and job application tracking |
----
+| [`CERTIFICATIONS/`](./CERTIFICATIONS) | Notes, study plans, and resources for IT certifications (ITF+, A+, CCNA, etc.) |
+| [`PROJECTS/`](./PROJECTS) | Home lab builds, Nmap scans, TryHackMe walkthroughs, and security projects |
+| [`RESUME/`](./RESUME) | Current and targeted resumes for tech and cybersecurity roles |
+| [`NOTES/`](./NOTES) | Tools, learning logs, study notes, and job application tracking |
 
 ##  My Learning Philosophy
 
