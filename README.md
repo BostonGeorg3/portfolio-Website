@@ -14,21 +14,20 @@ I’m passionate about creating secure, user-friendly systems and empowering oth
 ## 🎯 Goals
 
 - ✅ Earn CompTIA ITF+ (Completed)
-- 🔄 Pass Security + (In Progress)
+- 🔄 Network and Cloud Security Cisco track (Bachelor's of Science)
 - 🎓 Enrolled  in Computer Science Program 
 - 💼 Land a role in an Entry-Level Cybersecurity Internship/position by 2026
 
 ---
 
-## 📂 Repository Overview
+## 📁 Repository Overview
 
-| Folder            | Description                                                     |
-|-------------------|-----------------------------------------------------------------|
-| `CERTIFICATIONS/![ITF+ Certificate](./CERTIFICATIONS/ITF+ Logo Certified.png` | Notes, study plans, and resources for IT certifications         |
-| `PROJECTS/`       | Home lab builds, Nmap scans, TryHackMe walkthroughs, and more   |
-| `RESUME/`         | Current and targeted resumes for tech positions                 |
-| `NOTES/`          | Tools, learning logs, and job application tracking              |
-
+| Folder | Description |
+|--------|-------------|
+| `CERTIFICATIONS/` | Notes, study plans, and resources for IT certifications (ITF+, A+, CCNA, etc.) |
+| `PROJECTS/` | Home lab builds, Nmap scans, TryHackMe walkthroughs, and security projects |
+| `RESUME/` | Current and targeted resumes for tech and cybersecurity roles |
+| `NOTES/` | Tools, learning logs, study notes, and job application tracking |
 ---
 
 ##  My Learning Philosophy
